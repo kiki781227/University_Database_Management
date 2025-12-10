@@ -130,7 +130,7 @@ Le script `monitoring_script.sql` interroge les DMV de SQL Server pour :
     Resultat screenshots : 
     M1 : Utilisation des index,
     M2 : Lister les requêtes actives et leurs temps d’exécution,
-    M3 : Afficher les principaux types d’attentes (waits) sur l’instanc,
+    M3 : Afficher les principaux types d’attentes (waits) sur l’instance
 )*
 
 ---
