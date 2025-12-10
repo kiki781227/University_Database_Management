@@ -66,7 +66,7 @@ Opérations réalisées dans `Task_A_cleaning.sql` :
 - nettoyage des emails :
   - mise à `NULL` des emails invalides,
   - régénération d’emails propres à partir des noms (`nom@university.mu`) ;
-- contrôle/correction des dates de naissance si nécessaire ;
+- Gestion des doublons;
 - harmonisation des crédits `Courses.Credits` vers un ensemble cohérent `{1, 3, 6, 8}`.
 
 > **Captures associées :** 
