@@ -86,9 +86,9 @@ Ces requêtes utilisent des **jointures**, **agrégats**, éventuellement **CTE*
 > **Captures associées :** 
 > - `Requetes_avancees_Task_A/` *(
     Resultat screenshots : 
-    Q1 : Statistiques globales par département
-    Q2 : Moyenne et classement des étudiants par département
-    Q3 : PIVOT - nombre de cours par département et par crédits (colonnes 1,3,6,8 crédits)
+    Q1 : Statistiques globales par département,
+    Q2 : Moyenne et classement des étudiants par département,
+    Q3 : PIVOT - nombre de cours par département et par crédits (colonnes 1,3,6,8 crédits),
     Q4 : Top 5 des cours par moyenne de note
  )*
 
@@ -128,9 +128,9 @@ Le script `monitoring_script.sql` interroge les DMV de SQL Server pour :
 > **Captures associées :** 
 > - `Monitoring/` * (
     Resultat screenshots : 
-    M1 : Utilisation des index
-    M2 : Lister les requêtes actives et leurs temps d’exécution
-    M3 : Afficher les principaux types d’attentes (waits) sur l’instanc
+    M1 : Utilisation des index,
+    M2 : Lister les requêtes actives et leurs temps d’exécution,
+    M3 : Afficher les principaux types d’attentes (waits) sur l’instanc,
 )*
 
 ---
