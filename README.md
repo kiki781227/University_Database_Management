@@ -47,7 +47,7 @@ Les données sont générées par le script **`python/generate_data.py`** :
 - utilisation d’un fichier JSON interne pour des noms de cours et de clubs plus réalistes **`python/liste_depart_cours_club.json`**;
 - export d’un CSV par table dans le dossier `data/`.
 
-Le script introduit aussi du **bruit** contrôlé (noms mal formatés, emails invalides, crédits aléatoires, etc.) pour justifier la phase de nettoyage SQL. **`python/noisy_data`**
+Le script introduit aussi du **bruit** contrôlé (noms mal formatés, emails invalides, crédits aléatoires, etc.) pour justifier la phase de nettoyage SQL a l'aide du script **`python/noisy_data.py`**
 
 > **Captures associées :** 
 > - `Insertion_data/` *(avant et apres insertion + config insertion)*
